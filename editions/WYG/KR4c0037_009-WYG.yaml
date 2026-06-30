@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR4c0037/WYG/v1/juan/9
+seq: 9
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4c0037_WYG_010-1a, image: WYG1072/WYG1072-0492c.png}
+body:
+  text: 錢仲文集巻十唐錢起撰五言三韻近體六首二韻近體九首二韻往體二十二首七言二韻近體十九首三韻近體一首送楊著作歸東海楊栁出闗色東行千里期酒酣暫輕别路逺始相思欲識離心盡斜陽到海時送李協律還東京芳草忽無色王孫復入闗長河侵驛道匹馬傍雲山愁見離居乆螢飛秋月閑秋舘言懐蟋蟀已秋思蕙蘭仍碧滋蹉跎獻賦客歎息此良時日夕雲臺下商歌空自悲和劉明府宴縣前山亭城隅勞心處雪後嵗芳開山映千花出泉經萬井來翔鸞欲下舞上客且留杯新雨喜得王卿書問苦雨暗秋徑寒花垂紫苔愁中緑罇盡夢裏故人來果有相思字銀鈎新月開賦得巢燕送客能棲杏梁際不與黄雀羣夜影寄紅燭朝飛髙碧雲含情别故侣花月一作宛似惜春分
+  hash: sha256:ad2d567e83724092ea41e52466447e23b4e4fc0d2dc26ed0dae077c1a987ed9d
+metadata:
+  title: 錢考功集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 08:05:35.267195'
+  source:
+    repository: kanripo
+    path: KR4c0037/KR4c0037_009.txt
+hash: sha256:60633592b5c6e8449f6ba69bab08e8fb6594c56b853642629847126d09c58e9a

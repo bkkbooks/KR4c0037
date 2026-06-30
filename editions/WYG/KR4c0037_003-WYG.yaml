@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4c0037/WYG/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三
+  hash: sha256:a4c3313deb180960469d0e79a770b9deee47fdeed74fe0f74d0bf51006fcc4f0
+metadata:
+  title: 錢考功集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 08:05:35.267195'
+  source:
+    repository: kanripo
+    path: KR4c0037/KR4c0037_003.txt
+hash: sha256:4a1bf80c822a236e174e14fb193651d0559184ed07dc9d355ad7f47888f931df
